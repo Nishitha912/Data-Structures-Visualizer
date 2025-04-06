@@ -1,72 +1,69 @@
-# Getting Started with Create React App
+# 📊 Data Structures and Algorithms Visualizer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web-based tool to visualize complex data structures and algorithms with interactive elements, built using React.js.
 
-## Available Scripts
+## 🚀 About the Project
 
-In the project directory, you can run:
+Many students struggle with Data Structures and Algorithms (DSA) because of the abstract thinking it requires. This tool provides an interactive and visual way to learn and understand DSA concepts, making learning more intuitive and engaging.
 
-### `npm start`
+## ✨ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Visualize common data structures like:
+-Arrays
+-Linked Lists
+-Stacks
+-Queues
+-Binary Search Trees
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Explore algorithms like:
+-Sorting
+-Path Finding
+-Factorial
 
-### `npm test`
+Built using React.js and Bootstrap
+Runs on any modern browser
+Clean UI with animations and SVG graphics
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ⚙️ Tech Stack
+Frontend: React.js, Bootstrap
 
-### `npm run build`
+Routing: react-router-dom
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Languages: JavaScript
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Browser Compatibility: Chrome, Safari, Firefox, Edge
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🖥️ Requirements
+Software
+-OS: Windows / MacOS / Unix
+-Browser: Any modern browser
 
-### `npm run eject`
+Hardware
+-Processor: Intel Core i3 or above
+-RAM: 8GB
+-Architecture: 32 or 64 bit
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+###👩‍💻 Team
+N. Nishitha – 19131A05F5
+N. Y. V. V. Ishitha – 19131A05E7
+P. Prasanth – 19131A05H3
+M. E. K. Vahanth – 19131A05B4
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Screenshots 
+![image](https://github.com/user-attachments/assets/41840950-a34f-493a-b6b4-1d758d4b8a41)
+![image](https://github.com/user-attachments/assets/3e7eaf05-2f89-4040-a62b-215897cf485c)
+![image](https://github.com/user-attachments/assets/87e80d4b-4207-4254-ab1e-db67737880c1)
+![image](https://github.com/user-attachments/assets/56e777bf-aced-4a5b-ac0f-649adb588cf1)
+![image](https://github.com/user-attachments/assets/2583bfc7-316d-4716-9032-560fc827d74c)
+![image](https://github.com/user-attachments/assets/1929f2e6-17c7-45cb-b1f7-629c8e18b8c6)
+![image](https://github.com/user-attachments/assets/d326b2a0-def2-4ca4-a4f0-e594f1ca4a4d)
+![image](https://github.com/user-attachments/assets/82a8a23f-2942-414b-ad79-069d1710377a)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Data-Structures-and-Algorithms-Visualizer" 
-"# Data-Structures-and-Algorithms-Visualizer" 
