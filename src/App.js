@@ -21,7 +21,7 @@ function App() {
   
   return (
     <div>
-      <BrowserRouter basename='/'> 
+      <BrowserRouter basename="/Data-Structures-and-Algorithm-Visualizer"> 
         <Routes>
           <Route path="/stack" element={<Stack></Stack>} />
           <Route path="/queue" element={<Queue></Queue>} />
@@ -31,7 +31,7 @@ function App() {
           <Route path="/Pathfinding" element={<PathfindingVisualizer/>} />
           <Route path="/sortingvisualizer" element={<SortingVisualizer></SortingVisualizer>} />
           <Route path="/bst" element={<BST/>} />
-          <Route path="/" element={<Homepage></Homepage>} />
+          <Route exact path="/" element={<Homepage></Homepage>} />
           <Route path='/test' element={<VisualizerSorting></VisualizerSorting>} />
           <Route path='/test2' element={<VisualizePathfinding></VisualizePathfinding>} />
         </Routes>
