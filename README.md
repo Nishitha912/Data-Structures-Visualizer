@@ -52,7 +52,7 @@ M. E. K. Vahanth – 19131A05B4
 ## Screenshots 
 ![image](https://github.com/user-attachments/assets/41840950-a34f-493a-b6b4-1d758d4b8a41)
 ![image](https://github.com/user-attachments/assets/3e7eaf05-2f89-4040-a62b-215897cf485c)
-![image](https://github.com/user-attachments/assets/87e80d4b-4207-4254-ab1e-db67737880c1)
+![image](https://github.com/user-attachments/assets/5c40301f-6f84-4864-a9fa-c108e43a35f7)
 ![image](https://github.com/user-attachments/assets/56e777bf-aced-4a5b-ac0f-649adb588cf1)
 ![image](https://github.com/user-attachments/assets/2583bfc7-316d-4716-9032-560fc827d74c)
 ![image](https://github.com/user-attachments/assets/1929f2e6-17c7-45cb-b1f7-629c8e18b8c6)
