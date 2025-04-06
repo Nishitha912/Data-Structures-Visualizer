@@ -8,24 +8,24 @@ Many students struggle with Data Structures and Algorithms (DSA) because of the 
 
 ## ✨ Features
 
-Visualize common data structures like:
--Arrays
--Linked Lists
--Stacks
--Queues
--Binary Search Trees
+Visualize common data structures like: <br />
+-Arrays <br />
+-Linked Lists <br />
+-Stacks <br />
+-Queues <br />
+-Binary Search Trees <br />
 
-Explore algorithms like:
--Sorting
--Path Finding
--Factorial
+Explore algorithms like: <br />
+-Sorting <br />
+-Path Finding <br />
+-Factorial <br />
 
-Built using React.js and Bootstrap
-Runs on any modern browser
-Clean UI with animations and SVG graphics
+Built using React.js and Bootstrap <br />
+Runs on any modern browser <br />
+Clean UI with animations and SVG graphics <br />
 
 ## ⚙️ Tech Stack
-Frontend: React.js, Bootstrap
+Frontend: React.js, Bootstrap 
 
 Routing: react-router-dom
 
@@ -34,20 +34,20 @@ Languages: JavaScript
 Browser Compatibility: Chrome, Safari, Firefox, Edge
 
 ## 🖥️ Requirements
-Software
--OS: Windows / MacOS / Unix
--Browser: Any modern browser
+Software <br />
+-OS: Windows / MacOS / Unix <br />
+-Browser: Any modern browser <br />
 
-Hardware
--Processor: Intel Core i3 or above
--RAM: 8GB
--Architecture: 32 or 64 bit
+Hardware <br />
+-Processor: Intel Core i3 or above <br />
+-RAM: 8GB <br />
+-Architecture: 32 or 64 bit <br />
 
-###👩‍💻 Team
-N. Nishitha – 19131A05F5
-N. Y. V. V. Ishitha – 19131A05E7
-P. Prasanth – 19131A05H3
-M. E. K. Vahanth – 19131A05B4
+### 👩‍💻 Team
+N. Nishitha – 19131A05F5 <br />
+N. Y. V. V. Ishitha – 19131A05E7 <br />
+P. Prasanth – 19131A05H3 <br />
+M. E. K. Vahanth – 19131A05B4 <br />
 
 ## Screenshots 
 ![image](https://github.com/user-attachments/assets/41840950-a34f-493a-b6b4-1d758d4b8a41)
@@ -58,12 +58,3 @@ M. E. K. Vahanth – 19131A05B4
 ![image](https://github.com/user-attachments/assets/1929f2e6-17c7-45cb-b1f7-629c8e18b8c6)
 ![image](https://github.com/user-attachments/assets/d326b2a0-def2-4ca4-a4f0-e594f1ca4a4d)
 ![image](https://github.com/user-attachments/assets/82a8a23f-2942-414b-ad79-069d1710377a)
-
-
-
-
-
-
-
-
-
